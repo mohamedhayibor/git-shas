@@ -1,0 +1,34 @@
+{
+  "name": "git-shas",
+  "version": "1.0.0",
+  "description": "This module returns the list of all shas (git commit hashes) from a git repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified or needed, it just works :) \" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedhayibor/git-shas.git"
+  },
+  "keywords": [
+    "git",
+    "hashes",
+    "hash",
+    "commits",
+    "HEAD",
+    "Head",
+    "get",
+    "commit",
+    "github",
+    "revision",
+    "rev-list",
+    "rev-parse",
+    "rev"
+  ],
+  "author": "Mohamed Hayibor <mohamedhayibor@gmail.com> (github.com/mohamedhayibor)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamedhayibor/git-shas/issues"
+  },
+  "homepage": "https://github.com/mohamedhayibor/git-shas#readme"
+}
